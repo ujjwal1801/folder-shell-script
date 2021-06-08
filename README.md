@@ -1,1 +1,1 @@
-# folder-shell-script
+### This is a simple batch script that navigates to the root of each sub-directory in the current directory, spawns a command prompt and runs the specified command. In the case of this file, it runs `npm run`. Just replace the command with whatever you want to run and you are good to go. Remember, it spawns the cmd prompt of only the root (enters the sub-directory and spawns there) of the sub-directory.
